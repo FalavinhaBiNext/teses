@@ -1,0 +1,7 @@
+polars
+streamlit
+sqlalchemy
+pandas
+xlsxwriter
+fastexcel
+openpyxl
