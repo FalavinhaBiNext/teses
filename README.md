@@ -248,9 +248,9 @@ Subvenção ICMS = (Valor Operação × Alíquota ICMS) - Valor ICMS
 ## 📞 Suporte
 
 ### Contato
-- **E-mail**: tributario@empresa.com.br
-- **Telefone**: (11) 1234-5678
-- **Horário**: Segunda a Sexta, 8h às 18h
+- **E-mail**: geovani.santos@falavinha.com.br
+- **Telefone**: (41) 99743-9145
+- **Horário**: Segunda a quinta, 8h às 18h | Sexta, 8h às 17h
 
 ### Documentação Adicional
 - Consulte os comentários no código
