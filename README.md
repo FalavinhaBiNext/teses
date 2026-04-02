@@ -265,4 +265,4 @@ Este projeto é de uso interno da empresa. Todos os direitos reservados.
 
 **Versão**: 2.0.0  
 **Última atualização**: Setembro 2025  
-**Desenvolvido por**: Equipe Tributária
+**Desenvolvido por**: Geovani Santos
